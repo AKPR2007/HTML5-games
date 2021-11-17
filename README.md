@@ -13,3 +13,6 @@
 
 ### [4 Colors Monument Edition](https://html5.gamedistribution.com/46172d83ae3d45ce86812531fa40b103/)
 [![4colorsmonumenteditionlogo.jpg](https://img.gamedistribution.com/46172d83ae3d45ce86812531fa40b103-1280x720.jpeg)](https://html5.gamedistribution.com/46172d83ae3d45ce86812531fa40b103/)
+
+### [Fruit Ninja](https://html5.gamedistribution.com/2e0f4c7c23b041768bf7869a1ed89669/)
+[![fruitninjalogo.jpg](https://img.captain-droid.com/wp-content/uploads/fruit-ninja-main-title.jpg)](https://html5.gamedistribution.com/2e0f4c7c23b041768bf7869a1ed89669/)
