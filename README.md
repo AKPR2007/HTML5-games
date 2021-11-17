@@ -19,3 +19,6 @@
 
 ### [Vex 6](https://html5.gamedistribution.com/4925e12574364121a48c61c35f649c36/)
 [![veg6logo.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnGVdW9jBZEPJCyIYkKjseexe4El54aKjueg&usqp=CAU)](https://html5.gamedistribution.com/4925e12574364121a48c61c35f649c36/)
+
+### [Merge Cannon: Chicken Defense](https://html5.gamedistribution.com/bec78e2bc19243a6bb7e0939b9154e12/)
+[![mergecanonchikendefenselogo.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTlIFItQ4cOAvKVomUsY39ZrgKtwBxDeHtVpg&usqp=CAU)](https://html5.gamedistribution.com/bec78e2bc19243a6bb7e0939b9154e12/)
