@@ -16,3 +16,6 @@
 
 ### [Fruit Ninja](https://html5.gamedistribution.com/2e0f4c7c23b041768bf7869a1ed89669/)
 [![fruitninjalogo.jpg](https://img.captain-droid.com/wp-content/uploads/fruit-ninja-main-title.jpg)](https://html5.gamedistribution.com/2e0f4c7c23b041768bf7869a1ed89669/)
+
+### [Vex 6](https://html5.gamedistribution.com/4925e12574364121a48c61c35f649c36/)
+[![veg6logo.jpg](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnGVdW9jBZEPJCyIYkKjseexe4El54aKjueg&usqp=CAU)](https://html5.gamedistribution.com/4925e12574364121a48c61c35f649c36/)
