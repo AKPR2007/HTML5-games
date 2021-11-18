@@ -1,5 +1,5 @@
 <p align="center">
-    <b>HTML5-GAMES</b><br>
+    <b>MOBILE ARCADE</b><br>
     <sup>created by AK PR</sup>
 <br>
 </p>
